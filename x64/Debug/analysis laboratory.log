@@ -1,0 +1,3 @@
+﻿  analysis laboratory.cpp
+C:\Users\asus\source\repos\analysis laboratory\analysis laboratory\analysis laboratory.cpp(558,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  analysis laboratory.vcxproj -> C:\Users\asus\source\repos\analysis laboratory\x64\Debug\analysis laboratory.exe
